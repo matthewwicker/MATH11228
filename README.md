@@ -1,4 +1,4 @@
-# Robustness of Learning Algoriths - MATH11228
+# Robustness of Learning Algorithms - MATH11228
 A Public Repository Containing Slides and Coursework on Adversarial Robustness delivered to students at University of Edinburgh
 
 ### Course Slides
